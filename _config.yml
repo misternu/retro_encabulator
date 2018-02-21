@@ -1,5 +1,7 @@
 livereload: true
+# sass:
+#     style: compressed
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+    - Gemfile
+    - Gemfile.lock
+    - README.md
